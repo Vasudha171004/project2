@@ -2,8 +2,6 @@
 
 This is my personal portfolio website, built from scratch using HTML, CSS, and JavaScript. [cite_start]It showcases my skills, experience, and projects based on my resume [cite: 1-34].
 
-## ✨ Live Demo & Screenshot
-
 ## 🚀 Features
 
 This portfolio is a single-page application with the following sections:
