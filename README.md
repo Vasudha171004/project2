@@ -16,15 +16,15 @@ This is my personal portfolio website, built from scratch using HTML, CSS, and J
 
 This portfolio is a single-page application with the following sections:
 
-* [cite_start]**Home:** A hero section with my name, title, and social links[cite: 1].
-* [cite_start]**About:** A summary of my background and B.Tech education[cite: 5].
-* [cite_start]**Skills:** A categorized list of my technical skills, including languages, frontend, backend, and tools[cite: 23, 24, 25].
-* [cite_start]**Experience:** Details about my SDE Internship at Bluestock Fintech[cite: 7, 8, 11, 12, 13].
-* [cite_start]**Projects:** Showcase cards for my "Digital India Skill Access Portal" and "Fee Management System" projects[cite: 15, 19].
-* [cite_start]**Achievements:** A list of my accomplishments and certifications[cite: 27, 29, 30, 31, 33, 34].
-* [cite_start]**Contact:** My email [cite: 1] [cite_start]and phone number [cite: 1] for easy contact.
-* **Fully Responsive:** Adapts to all screen sizes from mobile to desktop.
-* **Interactive:** Features a mobile hamburger menu and active link highlighting on scroll.
+**Home:** A hero section with my name, title, and social links[cite: 1].
+**About:** A summary of my background and B.Tech education[cite: 5].
+**Skills:** A categorized list of my technical skills, including languages, frontend, backend, and tools[cite: 23, 24, 25].
+**Experience:** Details about my SDE Internship at Bluestock Fintech[cite: 7, 8, 11, 12, 13].
+**Projects:** Showcase cards for my "Digital India Skill Access Portal" and "Fee Management System" projects[cite: 15, 19].
+**Achievements:** A list of my accomplishments and certifications[cite: 27, 29, 30, 31, 33, 34].
+**Contact:** My email [cite: 1] [cite_start]and phone number [cite: 1] for easy contact.
+**Fully Responsive:** Adapts to all screen sizes from mobile to desktop.
+**Interactive:** Features a mobile hamburger menu and active link highlighting on scroll.
 
 ---
 
