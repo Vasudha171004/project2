@@ -3,13 +3,6 @@
 This is my personal portfolio website, built from scratch using HTML, CSS, and JavaScript. [cite_start]It showcases my skills, experience, and projects based on my resume [cite: 1-34].
 
 ## ✨ Live Demo & Screenshot
-
-**(Recommended)**
-1.  Deploy your site (e.g., on GitHub Pages).
-2.  Add the live link here: `[View Live Demo](https://your-github-username.github.io/your-repo-name/)`
-3.  Take a screenshot, add it to an `images` folder in your project, and uncomment this line:
-    `![Portfolio Screenshot](./images/screenshot.png)`
-
 ---
 
 ## 🚀 Features
